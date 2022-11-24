@@ -1,0 +1,3 @@
+Escopo:
+
+Salvar veiculos e o momento da passagem deles em um pedagio para futura conferencia.
